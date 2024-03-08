@@ -9,7 +9,7 @@ public class ExamPortalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExamPortalApplication.class, args);
 		
-		System.err.println("Application Running");
+		System.out.println("Application Running");
 	}
 
 }
